@@ -31,6 +31,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "pouchdb-server": "^0.7.1"
+    "pouchdb-server": "^0.7.1",
+    "q": "^1.4.1"
   }
 }
