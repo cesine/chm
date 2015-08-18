@@ -29,6 +29,7 @@ node_modules
 
 # Database files
 pid
+databases
 _replicator
 _users
 pouch__all_dbs__
