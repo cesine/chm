@@ -17,13 +17,13 @@
   ],
   "devDependencies": {
     "gulp": "^3.6.0",
+    "gulp-coveralls": "^0.1.0",
     "gulp-eslint": "^0.15.0",
     "gulp-exclude-gitignore": "^1.0.0",
     "gulp-istanbul": "^0.9.0",
-    "gulp-mocha": "^2.0.0",
-    "gulp-plumber": "^1.0.0",
+    "gulp-jasmine": "^2.0.1",
     "gulp-nsp": "^0.4.5",
-    "gulp-coveralls": "^0.1.0"
+    "gulp-plumber": "^1.0.0"
   },
   "scripts": {
     "prepublish": "gulp prepublish",
